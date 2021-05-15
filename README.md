@@ -1,0 +1,1 @@
+# crie-um-array-de-n-meros-que-vai-de-0-a-1000.py
